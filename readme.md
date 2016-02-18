@@ -1,16 +1,14 @@
 # _Rock Paper Scissors_
 
-#### _A simple Rock Paper Scissor game, 2.17.2016_
+#### _A simple find and replace game :) , 2.17.2016_
 
 ### By _**Alex Fallenstedt & Mary Warrington**_
 
 ## Description
 
-_This web app is designed to allow two users play Rock Paper Scissors. By storing values in a session, one player will not know the other player's throw. The app was built using the micro-framework Silex, as well as Bootstrap._
+_This web app is designed to allow a user to enter a string and replace it with a word. By storing values in a session, one player will not know the other player's throw. The app was built using the micro-framework Silex, as well as Bootstrap._
 
-_The goal of this code project is to show basic understanding and competency with php and the Silex micro-framework, including the ability to create, store, and delete instants of a given class._
-
-_The code review will consider the following criteria.._
+_The goal of this code project is to show basic understanding and competency with php and the Silex micro-framework._
 
 
 ## Setup/Installation Requirements
@@ -22,7 +20,7 @@ _The code review will consider the following criteria.._
 
 ## Known Bugs
 
-_This application is not fully designed and may have unknown bugs._
+_This application is not done yet!_
 
 
 ## Support and contact details
